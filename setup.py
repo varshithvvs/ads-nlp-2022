@@ -11,12 +11,12 @@ install_requires = ["wheel"]
 install_requires = []
 
 setup(
-    name='project-a',
+    name='ads-nlp-2022',
     version='0.0.1',
     author='Sai Varshith VV',
-    author_email='svvarsham@gmail.com',
+    author_email='saivarshith.vv@zs.com',
     description=
-    'Project-a',
+    'ads-nlp-2022',
     long_description=long_description,
     long_description_content_type='text/markdown',
     python_requires='>=3.7, !=3.9, != 3.10',
